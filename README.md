@@ -1,2 +1,2 @@
-# Moore.io Hopper Template
-Moore.io's Hopper Repository Template
+# Moore.io Project Template
+Moore.io's Project Repository Template
