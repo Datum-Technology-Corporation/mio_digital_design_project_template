@@ -1,0 +1,12 @@
+# Copyright 2022 Datum Technology Corporation
+# All rights reserved.
+########################################################################################################################
+
+
+[project]
+name        = "name"
+full-name   = "Project Name"
+description = ""
+
+[simulation]
+default-simulator = [ "vivado" ]
